@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.1" orientation="orthogonal" renderorder="right-down" width="200" height="200" tilewidth="128" tileheight="128" infinite="0" nextlayerid="5" nextobjectid="253">
+ <tileset firstgid="1" source="objects.tsx"/>
+ <tileset firstgid="62" source="spaceship_tiles.tsx"/>
+ <objectgroup id="3" name="Layout">
+  <object id="224" gid="48" x="1373.37" y="3439.38" width="90.5894" height="1071.97"/>
+  <object id="225" gid="48" x="1397.76" y="3388.6" width="80.2192" height="2752.05" rotation="90"/>
+  <object id="226" gid="48" x="1382.83" y="2339.9" width="80.2192" height="1587.08" rotation="90"/>
+  <object id="227" gid="48" x="4121.65" y="3472.76" width="80.2192" height="1113.31"/>
+  <object id="237" gid="48" x="3296.98" y="2341.87" width="80.2192" height="897.75" rotation="90"/>
+  <object id="238" gid="48" x="2737.22" y="2263.75" width="143.856" height="162.838" rotation="90"/>
+  <object id="240" gid="48" x="184.297" y="2052.82" width="58.303" height="1708.21" rotation="90"/>
+  <object id="241" gid="48" x="213.757" y="661.908" width="58.303" height="1683.97" rotation="90"/>
+  <object id="242" gid="48" x="158.217" y="2112.7" width="90.5894" height="1420.45"/>
+  <object id="248" gid="56" x="3992" y="1871" width="2272" height="1341"/>
+  <object id="249" gid="57" x="231" y="2064" width="1779" height="1343"/>
+  <object id="250" gid="58" x="1368" y="3474" width="2832" height="1171"/>
+  <object id="252" gid="61" x="1978" y="2457" width="2093" height="2081"/>
+ </objectgroup>
+</map>
